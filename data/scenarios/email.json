@@ -1,0 +1,124 @@
+{
+  "id": "email",
+  "title": {
+    "en": "E-mail to a colleague: reschedule a meeting",
+    "fr": "Courriel à un collègue : déplacer une réunion"
+  },
+  "steps": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Greeting and purpose",
+        "fr": "Salutation et objectif"
+      },
+      "situation": {
+        "en": "You have a scheduling conflict with your meeting with Alex. Start an e-mail to ask about moving it.",
+        "fr": "Un conflit d’horaire vous empêche de participer à votre réunion avec Alex. Commencez un courriel pour demander de la déplacer."
+      },
+      "task": {
+        "en": "Greet Alex and explain that you would like to reschedule the meeting.",
+        "fr": "Saluez Alex et expliquez que vous souhaitez déplacer la réunion."
+      },
+      "expressions": {
+        "en": [
+          "hello",
+          "reschedule our meeting"
+        ],
+        "fr": [
+          "bonjour",
+          "déplacer notre réunion"
+        ]
+      },
+      "register": {
+        "en": "Use a neutral, professional tone.",
+        "fr": "Utilisez le vouvoiement et un ton professionnel."
+      },
+      "answer": {
+        "en": "Hello Alex,\nI would like to reschedule our meeting because of a scheduling conflict.",
+        "fr": "Bonjour Alex,\nJe souhaite déplacer notre réunion en raison d’un conflit d’horaire."
+      },
+      "note": {
+        "en": "A simple greeting and a clear purpose help your colleague respond.",
+        "fr": "Une salutation simple et un objectif clair facilitent la réponse de votre collègue."
+      },
+      "emailPart": "greeting"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Offer two times",
+        "fr": "Proposer deux créneaux"
+      },
+      "situation": {
+        "en": "You are available on Tuesday at 10 a.m. or Thursday at 2 p.m. Offer both options to Alex.",
+        "fr": "Vous êtes disponible mardi à 10 h ou jeudi à 14 h. Proposez ces deux possibilités à Alex."
+      },
+      "task": {
+        "en": "Offer both times and ask which one works for Alex.",
+        "fr": "Proposez les deux créneaux et demandez à Alex lequel lui convient."
+      },
+      "expressions": {
+        "en": [
+          "Tuesday at 10 a.m.",
+          "Thursday at 2 p.m.",
+          "which time"
+        ],
+        "fr": [
+          "mardi à 10 h",
+          "jeudi à 14 h",
+          "quel créneau"
+        ]
+      },
+      "register": {
+        "en": "Use a neutral, professional tone.",
+        "fr": "Utilisez le vouvoiement et un ton professionnel."
+      },
+      "answer": {
+        "en": "Would Tuesday at 10 a.m. or Thursday at 2 p.m. work for you? Please let me know which time you prefer.",
+        "fr": "Seriez-vous disponible mardi à 10 h ou jeudi à 14 h? Pourriez-vous m’indiquer quel créneau vous convient le mieux?"
+      },
+      "note": {
+        "en": "Offering two specific times makes it easier to choose.",
+        "fr": "Deux créneaux précis facilitent le choix."
+      }
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Close politely",
+        "fr": "Terminer avec courtoisie"
+      },
+      "situation": {
+        "en": "Finish your e-mail to Alex. Thank your colleague for considering the change and use a polite closing.",
+        "fr": "Terminez votre courriel à Alex. Remerciez votre collègue de prendre en compte ce changement et ajoutez une formule de politesse."
+      },
+      "task": {
+        "en": "Thank Alex and close the e-mail politely. Use the invented sender name Morgan if you wish.",
+        "fr": "Remerciez Alex et terminez le courriel avec courtoisie. Vous pouvez signer du prénom fictif Morgan."
+      },
+      "expressions": {
+        "en": [
+          "thank you",
+          "kind regards"
+        ],
+        "fr": [
+          "merci de votre compréhension",
+          "cordialement"
+        ]
+      },
+      "register": {
+        "en": "Use a neutral, professional tone.",
+        "fr": "Utilisez le vouvoiement et un ton professionnel."
+      },
+      "answer": {
+        "en": "Thank you for considering this change. I look forward to hearing from you.\nKind regards,\nMorgan",
+        "fr": "Merci de votre compréhension. Dans l’attente de votre réponse, je vous souhaite une bonne journée.\nCordialement,\nMorgan"
+      },
+      "note": {
+        "en": "Keep the closing brief. Choose a formula that suits a professional exchange.",
+        "fr": "Gardez une conclusion brève. Choisissez une formule adaptée à un échange professionnel."
+      },
+      "emailPart": "closing"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "meeting",
+  "title": {
+    "en": "Team meeting: give a short project update",
+    "fr": "Réunion d’équipe : faire le point sur un projet"
+  },
+  "steps": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Open the update",
+        "fr": "Commencer le point de situation"
+      },
+      "situation": {
+        "en": "You are meeting with your colleague Camille to discuss an internal planning guide. Introduce a short update.",
+        "fr": "Vous rencontrez votre collègue Camille pour discuter d’un guide de planification interne. Présentez une courte mise à jour."
+      },
+      "task": {
+        "en": "Thank Camille for being there and introduce your project update.",
+        "fr": "Remerciez Camille de sa présence et annoncez votre point sur le projet."
+      },
+      "expressions": {
+        "en": [
+          "thank you",
+          "project update"
+        ],
+        "fr": [
+          "merci de votre présence",
+          "faire le point"
+        ]
+      },
+      "register": {
+        "en": "Use a neutral, professional tone.",
+        "fr": "Utilisez le vouvoiement et un ton professionnel."
+      },
+      "answer": {
+        "en": "Thank you for joining me, Camille. I would like to give you a short project update on the planning guide.",
+        "fr": "Bonjour Camille, merci de votre présence. Je souhaite faire le point avec vous sur le guide de planification."
+      },
+      "note": {
+        "en": "A brief opening helps your colleague understand the purpose of the update.",
+        "fr": "Une courte introduction permet à votre collègue de comprendre l’objectif de votre intervention."
+      }
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Explain a delay",
+        "fr": "Expliquer un retard"
+      },
+      "situation": {
+        "en": "The guide will be ready two days later than planned because a review took longer than expected.",
+        "fr": "Le guide sera prêt deux jours plus tard que prévu, car une révision a pris plus de temps que prévu."
+      },
+      "task": {
+        "en": "Report the two-day delay and explain its cause in one or two sentences.",
+        "fr": "Signalez le retard de deux jours et expliquez sa cause en une ou deux phrases."
+      },
+      "expressions": {
+        "en": [
+          "two days",
+          "because"
+        ],
+        "fr": [
+          "deux jours",
+          "en raison de"
+        ]
+      },
+      "register": {
+        "en": "Use a neutral, professional tone.",
+        "fr": "Utilisez le vouvoiement et un ton professionnel."
+      },
+      "answer": {
+        "en": "The guide will be delayed by two days because the review took longer than expected.",
+        "fr": "La remise du guide est reportée de deux jours en raison de la révision, qui a pris plus de temps que prévu."
+      },
+      "note": {
+        "en": "Give a concrete delay and a brief cause. Keep the explanation factual.",
+        "fr": "Indiquez un délai précis et une cause brève. Présentez les faits simplement."
+      }
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Agree on a next step",
+        "fr": "Convenir de la prochaine étape"
+      },
+      "situation": {
+        "en": "You can send a revised schedule this afternoon. You want Camille’s agreement before you proceed.",
+        "fr": "Vous pouvez envoyer un calendrier révisé cet après-midi. Vous souhaitez obtenir l’accord de Camille avant de poursuivre."
+      },
+      "task": {
+        "en": "Propose sending the revised schedule this afternoon and ask for agreement.",
+        "fr": "Proposez d’envoyer le calendrier révisé cet après-midi et demandez l’accord de Camille."
+      },
+      "expressions": {
+        "en": [
+          "I suggest",
+          "does that work for you"
+        ],
+        "fr": [
+          "je vous propose",
+          "est-ce que cela vous convient"
+        ]
+      },
+      "register": {
+        "en": "Use a neutral, professional tone.",
+        "fr": "Utilisez le vouvoiement et un ton professionnel."
+      },
+      "answer": {
+        "en": "I suggest sending you the revised schedule this afternoon. Does that work for you?",
+        "fr": "Je vous propose de vous envoyer le calendrier révisé cet après-midi. Est-ce que cela vous convient?"
+      },
+      "note": {
+        "en": "End with a clear action and an open invitation to agree or suggest a change.",
+        "fr": "Terminez par une action précise et invitez votre collègue à donner son accord ou à proposer un changement."
+      }
+    }
+  ]
+}
